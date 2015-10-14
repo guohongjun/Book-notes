@@ -12,7 +12,7 @@
 ### 《说服力：如何让他人改变想法》
 
 ### 《九败一胜：美团创始人王兴创业十年》
-[九败一胜：美团创始人王兴创业十年](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B9%9D%E8%B4%A5%E4%B8%80%E8%83%9C.markdown)这本书我读了以后感触很多，同时也收获很多。这里和大家分享一下啊。
+这本书我读了以后感触很多，同时也收获很多。这里和大家分享一下,[九败一胜：美团创始人王兴创业十年](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B9%9D%E8%B4%A5%E4%B8%80%E8%83%9C.markdown)。
 
 
 
