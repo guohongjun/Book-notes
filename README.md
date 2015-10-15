@@ -3,7 +3,7 @@
 ---
 这是我们读书笔记，因为我有了很想读书的想法，最近买了很多书，想恶补一下。突然想起一句话，人长得丑而且又穷就多读点书吧。
 最近读的书目：
-### [《不曾走过，怎会懂得》](https://github.com/guohongjun/Lots-of-Candles-Plenty-of-Cake)
+### [《不曾走过，怎会懂得》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B8%8D%E6%9B%BE%E8%B5%B0%E8%BF%87%20%E6%80%8E%E4%BC%9A%E6%87%82%E5%BE%97.md)
 这是我对《不曾走过，怎会懂得》的总结，只是个回顾。
 ### 《不省心》
 
