@@ -16,4 +16,7 @@
 #### [《天才在左，疯子在右》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%EF%BC%8C%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3.md)
 
 
+####[《创业无畏》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%88%9B%E4%B8%9A%E6%97%A0%E7%95%8F.md)
+
+
 
