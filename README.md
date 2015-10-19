@@ -17,6 +17,7 @@
 
 
 ####[《创业无畏》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%88%9B%E4%B8%9A%E6%97%A0%E7%95%8F.md)
+#### [《金字塔原理》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%86.md3)
 
 
 
