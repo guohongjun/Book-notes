@@ -7,9 +7,9 @@
 这是我对《不曾走过，怎会懂得》的总结，只是个回顾。
 #### [《不省心》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B8%8D%E7%9C%81%E5%BF%83.md)
 
-#### 《逻辑思维，只要五步》
+#### [《逻辑思维，只要五步》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E9%80%BB%E8%BE%91%E6%80%9D%E7%BB%B4%EF%BC%8C%E5%8F%AA%E8%A6%81%E4%BA%94%E6%AD%A5.md)
 
-#### 《说服力：如何让他人改变想法》
+#### [《说服力：如何让他人改变想法》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E8%AF%B4%E6%9C%8D%E5%8A%9B%EF%BC%9A%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BB%96%E4%BA%BA%E6%94%B9%E5%8F%98%E6%83%B3%E6%B3%95.md)
 
 #### [《九败一胜：美团创始人王兴创业十年》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B9%9D%E8%B4%A5%E4%B8%80%E8%83%9C.markdown)
 这本书我刚刚读完了，有点意犹未尽。这本书改变了我对创业的看法，以至于让我有了一些更加深入自己的人生和以后生活的思考。我读了以后感触很多，同时也收获很多。这里和大家分享一下,《九败一胜：美团创始人王兴创业十年》。
@@ -20,6 +20,7 @@
 #### [《金字塔原理》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%86.md3)
 
 #### [《打造Facebook》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E6%89%93%E9%80%A0Facebook.md)
+#### [《小王子》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%B0%8F%E7%8E%8B%E5%AD%90.md)
 
 
 
