@@ -21,4 +21,4 @@
 - 在Facebook，工程师被当做公司发展的驱动力，在产品开发过程中扮演着引导性的角色。我们在很多公司里可以看到，工程师在很大程度上只是被当做一个执行者，由技术经理（EM）和产品经理（PM）来决定他要做什么。
 - Facebook则希望，从刚对某一产品进行方向性讨论、选择的时候，工程师就要尽可能地参与其中，提出自己的想法，工程师会参与从产品的构思、设计到打造的整个流程。在Facebook，很常见的情形是，工程师会化很多时间去思考产品为什么要这样做，既有20%-30%产品经理的心血，又有工程师的能力，可以用代码将想法实现，这种人最适合做产品工程师。
 - 在Facebook，对于工程师来说，公司特别提倡以下几点。其一，迅速发布，在进行监测（Move Fast and Monitor Closely）。其二，坦诚对待不确定性（Be Comfortable with Uncertainty）。其三，不追求极致，应该不断地发布以达到目标（Done Is Better Than Perferct,Stay Focused and Keep Shipping).
-- Facebook代码产生的过程包括写代码（Write Code）、测试代码（Test Code）、审查代码（Review Code）、提交代码（Check in Code）、发布代码（Release Code）。写代码指在自己的开发机器上做好修改，这些修改只存在于自己的开发环境中。
+- Facebook代码产生的过程包括写代码（Write Code）、测试代码（Test Code）、审查代码（Review Code）、提交代码（Check in Code）、发布代码（Release Code）。写代码指在自己的开发机器上做好修改，这些修改只存在于自己的开发环境中。测试代码指在本地端测试自己的修改以保证修改不引入明显的问题。审查代码指找合适的工程师同事来查看待提交的代码。
