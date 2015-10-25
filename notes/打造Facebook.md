@@ -20,4 +20,4 @@
 - “黑客”还意味着极度开放和精英为王。黑客们认为，最优秀的创意及其实现始终掌控一切——而不是由最善于鼓吹创意或是权力最大的人掌握一切。
 - 在Facebook，工程师被当做公司发展的驱动力，在产品开发过程中扮演着引导性的角色。我们在很多公司里可以看到，工程师在很大程度上只是被当做一个执行者，由技术经理（EM）和产品经理（PM）来决定他要做什么。
 - Facebook则希望，从刚对某一产品进行方向性讨论、选择的时候，工程师就要尽可能地参与其中，提出自己的想法，工程师会参与从产品的构思、设计到打造的整个流程。在Facebook，很常见的情形是，工程师会化很多时间去思考产品为什么要这样做，既有20%-30%产品经理的心血，又有工程师的能力，可以用代码将想法实现，这种人最适合做产品工程师。
-- 在Facebook，对于工程师来说，公司特别提倡以下几点。其一，迅速发布，在进行监测（Move Fast and Monitor Closely）。其二，坦诚对待不确定性（Be Comfortable with Uncertainty）。
+- 在Facebook，对于工程师来说，公司特别提倡以下几点。其一，迅速发布，在进行监测（Move Fast and Monitor Closely）。其二，坦诚对待不确定性（Be Comfortable with Uncertainty）。其三，不追求极致，应该不断地发布以达到目标（Done Is Better Than Perferct,Stay Focused and Keep Shipping).
