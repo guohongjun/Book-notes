@@ -24,7 +24,7 @@
 > 这本书让知道什么才是工程师文化，怎么的公司才是互联网公司。也指导我怎么样去朝着互联网人努力。
 
 #### [《小王子》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%B0%8F%E7%8E%8B%E5%AD%90.md)
-《小王子》是一个好朋友给我送给我的，
+《小王子》是一个好朋友在他离开草场地的时候，送给我的，我读了几页，但是都没有读完。
 
 #### [《就这么做产品》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%B0%B1%E8%BF%99%E4%B9%88%E5%81%9A%E4%BA%A7%E5%93%81.md)
 
