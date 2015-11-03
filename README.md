@@ -8,7 +8,7 @@
 
 不过我还是挺感谢她的，这本书我我悟出了很多东西。
 #### [《不省心》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B8%8D%E7%9C%81%E5%BF%83.md)
-作者冯小刚，是一个爱憎鲜明的人，我很喜欢他老炮的性格。《不省心》让我全新地认识了小刚老师，一个现实生活中的冯小刚。
+作者冯小刚，是一个爱憎鲜明的人，我很喜欢他老炮的性格。《不省心》让我全新地认识了小刚老师，一个现实生活中的冯小刚,一个平民的小刚老师。
 
 #### [《逻辑思维，只要五步》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E9%80%BB%E8%BE%91%E6%80%9D%E7%BB%B4%EF%BC%8C%E5%8F%AA%E8%A6%81%E4%BA%94%E6%AD%A5.md)
 
