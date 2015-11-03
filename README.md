@@ -6,7 +6,7 @@
 #### [《不曾走过，怎会懂得》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B8%8D%E6%9B%BE%E8%B5%B0%E8%BF%87%20%E6%80%8E%E4%BC%9A%E6%87%82%E5%BE%97.md)
 这是我对《不曾走过，怎会懂得》的总结，只是个回顾。
 #### [《不省心》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B8%8D%E7%9C%81%E5%BF%83.md)
-作者冯小刚，是一个爱憎鲜明的人，我很喜欢他老炮的性格。《不省心》让我全新地认识小刚老师，
+作者冯小刚，是一个爱憎鲜明的人，我很喜欢他老炮的性格。《不省心》让我全新地认识了小刚老师，一个现实生活中的冯小刚。
 
 #### [《逻辑思维，只要五步》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E9%80%BB%E8%BE%91%E6%80%9D%E7%BB%B4%EF%BC%8C%E5%8F%AA%E8%A6%81%E4%BA%94%E6%AD%A5.md)
 
