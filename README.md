@@ -15,7 +15,7 @@
 #### [《说服力：如何让他人改变想法》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E8%AF%B4%E6%9C%8D%E5%8A%9B%EF%BC%9A%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BB%96%E4%BA%BA%E6%94%B9%E5%8F%98%E6%83%B3%E6%B3%95.md)
 
 #### [《九败一胜：美团创始人王兴创业十年》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B9%9D%E8%B4%A5%E4%B8%80%E8%83%9C.markdown)
-这本书我刚刚读完了，有点意犹未尽。这本书改变了我对创业的看法，以至于让我有了一些更加深入自己的人生和以后生活的思考。我读了以后感触很多，同时也收获很多。这里和大家分享一下,《九败一胜：美团创始人王兴创业十年》。
+这本书我刚刚读完了，有点意犹未尽。这本书改变了我对创业的看法，以至于让我有了一些更加深入自己的人生和以后生活的思考。我读了以后感触很多，同时也收获很多。这里和大家分享一下,《九败一胜：美团创始人王兴创业十年》。我会五星推荐给大家这本书。
 #### [《天才在左，疯子在右》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%EF%BC%8C%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3.md)
 《天才在左，疯子在右》这本书主要讲述了作者与神经病人交谈的记录。
 
