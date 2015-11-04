@@ -22,10 +22,11 @@
 
 ####[《创业无畏》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%88%9B%E4%B8%9A%E6%97%A0%E7%95%8F.md)
 #### [《金字塔原理》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%86.md3)
+《金字塔原理》是曾经一个人买着给自己看的，听说不错的。我也觉得她度过了以后自己的逻辑性和思维的严谨性都有很高的提高。也是觉得自己还有很多需要提高的地方。所以我选择了这本书。
 
 #### [《打造Facebook》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E6%89%93%E9%80%A0Facebook.md)
 
-> 这本书让知道什么才是工程师文化，怎么的公司才是互联网公司。也指导我怎么样去朝着互联网人努力。
+> 这本书让知道什么才是工程师文化，怎么的公司才是互联网公司。也指导我怎么样去朝着互联网技术人努力。
 
 #### [《小王子》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%B0%8F%E7%8E%8B%E5%AD%90.md)
 《小王子》是一个好朋友在他离开草场地的时候，送给我的，我读了几页，但是都没有读完。这次《小王子》出品了电影，我想去看一下，可是一个人借口自己没有时间，所以就没有去。
