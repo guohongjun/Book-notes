@@ -26,7 +26,7 @@
 
 #### [《打造Facebook》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E6%89%93%E9%80%A0Facebook.md)
 
-> 这本书让知道什么才是工程师文化，怎么的公司才是互联网公司。也指导我怎么样去朝着互联网技术人努力。
+以前我对互联网公司没有什么深刻地认识，这本书让知道什么才是工程师文化，什么样的公司才是互联网公司。也指导我怎么样去朝着互联网技术人努力。
 
 #### [《小王子》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%B0%8F%E7%8E%8B%E5%AD%90.md)
 《小王子》是一个好朋友在他离开草场地的时候，送给我的，我读了几页，但是都没有读完。这次《小王子》出品了电影，我想去看一下，可是一个人借口自己没有时间，所以就没有去。
