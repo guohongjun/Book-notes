@@ -35,6 +35,8 @@
 
 #### [《就这么做产品》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%B0%B1%E8%BF%99%E4%B9%88%E5%81%9A%E4%BA%A7%E5%93%81.md)
 
+#### [《人生三悟：断、舍、离》]（https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%BA%BA%E7%94%9F%E4%B8%89%E6%82%9F%EF%BC%9A%E6%96%AD%E3%80%81%E8%88%8D%E3%80%81%E7%A6%BB.md）
+
 
 
 
