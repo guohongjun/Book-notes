@@ -38,6 +38,8 @@
 
 #### [《人生三悟：断、舍、离》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%BA%BA%E7%94%9F%E4%B8%89%E6%82%9F%EF%BC%9A%E6%96%AD%E3%80%81%E8%88%8D%E3%80%81%E7%A6%BB.md)
 
+####[《黑客增长》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2.md)
+
 
 
 
