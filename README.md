@@ -54,6 +54,6 @@
 
 
 ####[《至味在人间》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2.md)
-> 陈晓卿，《舌尖上的中国》总导演。
+> 陈晓卿，《舌尖上的中国》总导演。书如其人，就是因为喜欢他的人，所以我读他的《至味在人间》。
 
 
