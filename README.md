@@ -43,7 +43,7 @@
 
 ####[《黑客增长》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2.md)
 
-黑客增长，我读了一部分了，觉得里面是有很多新知识，不是很了解。
+> 黑客增长，我读了一部分了，觉得里面是有很多新知识，不是很了解。
 
 
 
