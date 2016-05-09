@@ -7,4 +7,4 @@
 
 - 2 编写markdown的工具
 
-mac上比较好用的工具是[mou](http://25.io/mou/),[macdown](http://macdown.uranusjr.com/)。关于两者比较好的文章，[Mac 下两款 Markdown 编辑器 Mou/MacDown 大 PK](http://www.jianshu.com/p/6c157af09e84)。
+mac上比较好用的工具是[mou](http://25.io/mou/),[macdown](http://macdown.uranusjr.com/)。推荐一篇关于两者比较好的文章，[Mac 下两款 Markdown 编辑器 Mou/MacDown 大 PK](http://www.jianshu.com/p/6c157af09e84)。
