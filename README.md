@@ -2,7 +2,7 @@
 
 ---
 > 天下有两件事不能辜负，一是运动，另则是读书。突然想起这样一句话，人长得丑且又穷就多读点书吧，估计我得很多书才能解决目前这个现状。
-最近读的书目：
+最近读的书目：有问题请[issue我](https://github.com/guohongjun/Book-notes/issues)。
 
 #### [《不曾走过，怎会懂得》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B8%8D%E6%9B%BE%E8%B5%B0%E8%BF%87%20%E6%80%8E%E4%BC%9A%E6%87%82%E5%BE%97.md)
 
@@ -32,7 +32,7 @@
 
 #### [《金字塔原理》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%86.md)
 
-> 《金字塔原理》是曾经一个人买着给自己看的，说不错的。我也觉得她读过了以后自己的逻辑性和思维的严谨性都有很大的提高。也是觉得自己还有很多需要提高的地方。所以我选择了这本书。
+> 《金字塔原理》是曾经的一个人买着看的，说不错的。我也觉得她读过了以后自己的逻辑性和思维的严谨性都有很大的提高。也是觉得自己还有很多需要提高的地方。所以我选择了这本书。
 
 #### [《打造Facebook》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E6%89%93%E9%80%A0Facebook.md)
 
