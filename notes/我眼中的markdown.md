@@ -25,7 +25,7 @@ Markdown 创立的宗旨是实现「易读易写」。其语法简洁直观，�
 
 * mac上比较好用的工具是[mou](http://25.io/mou/),[macdown](http://macdown.uranusjr.com/)。关于两者比较好的文章，[Mac 下两款 Markdown 编辑器 Mou/MacDown 大 PK](http://www.jianshu.com/p/6c157af09e84)。
 
-![mou截图](http://git.oschina.net/homework1/PictureResource/raw/master/pictureRes/mou_markdown.png?dir=0&filepath=pictureRes%2Fmou_markdown.png&oid=4d7c31544a4193f25aa688c2b1fbbc4e26417013&sha=60cd77e8925d5e15fe5f58edf1530e63f1fd61e6)
+![mou截图](http://cms.csdnimg.cn/article/201405/05/53675ec8c78fb.jpg)
 
 ![macdown](http://git.oschina.net/homework1/PictureResource/raw/master/pictureRes/macdown_picture.png?dir=0&filepath=pictureRes%2Fmacdown_picture.png&oid=ac2872fc3b78b5e6278d785419efd934871a4d26&sha=b99230019cd73b4f8575f6f78ca2102ee9166680)
 
@@ -35,6 +35,8 @@ Markdown 创立的宗旨是实现「易读易写」。其语法简洁直观，�
 
 * 在线的markdown工具
 
+
+> [cmd 作业部落](https://www.zybuluo.com/mdeditor) 支持 win/mac/linux/web/chrome 全平台，支持实时同步预览，支持代码高亮、数学公式，区分写作和阅读模式，支持在线存储，分享文稿网址。
 
 
 
