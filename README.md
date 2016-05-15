@@ -1,7 +1,7 @@
 # Book-notes
 
 ---
-> 天下有两件事不能辜负，一是运动，另则是读书。突然想起这样一句话，人长得丑且又穷就多读点书，估计我得很多书才能解决目前这个现状。如有问题请[issue我](https://github.com/guohongjun/Book-notes/issues)。
+> 天下有两件事不能辜负，一是运动，另则是读书。突然想起这样一句话，人长得丑且又穷就多读点书，估计我得很多书才能解决目前这种矮穷矬的现状。如有问题请[issue我](https://github.com/guohongjun/Book-notes/issues)。
 
 #### [《不曾走过，怎会懂得》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%B8%8D%E6%9B%BE%E8%B5%B0%E8%BF%87%20%E6%80%8E%E4%BC%9A%E6%87%82%E5%BE%97.md)
 
