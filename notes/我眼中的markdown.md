@@ -3,7 +3,7 @@
 > Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber）。它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。 —— 来自维基百科 [1](http://zh.wikipedia.org/zh-cn/Markdown)
 
 
-- 1 Markdown的用途
+- 1 为什么使用Markdown？
 
 - 2 编写markdown的工具
 
@@ -13,7 +13,8 @@ Markdown 创立的宗旨是实现「易读易写」。其语法简洁直观，�
 
 语法学习参考 : [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/)
 
-### Markdown的用途
+### 为什么使用Markdown？
+> 
 
 
 
@@ -30,3 +31,6 @@ Markdown 创立的宗旨是实现「易读易写」。其语法简洁直观，�
 > * windows上比较好用的工具**`MarkdownPad`**,用户可以通过键盘快捷键和工具栏按钮来使用或者移除 Markdown 格式。MarkdownPad左右栏的分割方式令用户可以实时看到 HTML 格式的 Markdown 文档。 
 
 ![markdown截图](http://cms.csdnimg.cn/article/201405/05/53675ce57a699.jpg)
+
+
+
