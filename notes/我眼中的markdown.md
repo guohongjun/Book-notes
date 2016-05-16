@@ -1,26 +1,22 @@
 # 我眼中的markdown
-## 什么是markdown？
-> Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber）。它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。 —— 来自维基百科 [1](http://zh.wikipedia.org/zh-cn/Markdown)
-
-
-- 1 为什么使用Markdown？
-
-- 2 编写markdown的工具
-
-
-
 Markdown 创立的宗旨是实现「易读易写」。其语法简洁直观，你可以使用任何喜爱的文本编辑器来阅读和写作，更专注于书写的文字内容而不是排版样式。编辑完毕可轻松地导出成 HTML、PDF 等其它格式。
-
 语法学习参考 : [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/)
 
-### 为什么使用Markdown？
-- 纯文本，所以兼容性极强，可以用所有文本编辑器编辑。
-- 新手入门简单，可以专注写作而不是排版。用Word写作的时候，经常浪费大量时间去思考排版，而用Markdown，写作完成后可以自己css定义样式或使用别人的css样式。
-- Markdown 语法简单，很快就可以学会。
-- Markdown 的标记语法有极好的可读性。
-- 格式转换方便，Markdown 的文本你可以轻松可以通过各种工具（如http://johnmacfarlane.net/pandoc/）转换为html、pdf、epub、mobi等格式。特别转化为pdf，这个功能特别好。
-- 可以使用git、svn等版本管理工具进行版本管理，协作也更方便。
+1. 什么是markdown？
+2. 为什么使用Markdown？
+3. 编写markdown的工具
 
+
+### 什么是markdown？
+> Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber）。它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。 —— 来自 [维基百科](http://zh.wikipedia.org/zh-cn/Markdown)
+
+### 为什么使用Markdown？
++ 纯文本，所以兼容性极强，可以用所有文本编辑器编辑。
+* 学法简单：新手入门基本上是零成本，就是几个常用的符号；用过几次很容易记住，且可读性强。
+* 专注写作：写作时关注内容即可，可以专注写作而不是排版。
+* 引用方便：插入超链接很方便，再也不担心找不到出处。
+* 转换方便：可导出HTML和PDF文件，随处都可打开。
+* 场景广泛：github，博客园，开源中国等都对markdown有很好的支持。
 
 
 ### 编写Markdown的工具
