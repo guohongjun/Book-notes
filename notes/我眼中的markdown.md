@@ -14,7 +14,12 @@ Markdown 创立的宗旨是实现「易读易写」。其语法简洁直观，�
 语法学习参考 : [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/)
 
 ### 为什么使用Markdown？
-> 
+- 纯文本，所以兼容性极强，可以用所有文本编辑器编辑。
+- 新手入门简单，可以专注写作而不是排版。用Word写作的时候，经常浪费大量时间去思考排版，而用Markdown，写作完成后可以自己css定义样式或使用别人的css样式。
+- Markdown 语法简单，很快就可以学会。
+- Markdown 的标记语法有极好的可读性。
+- 格式转换方便，Markdown 的文本你可以轻松可以通过各种工具（如http://johnmacfarlane.net/pandoc/）转换为html、pdf、epub、mobi等格式。特别转化为pdf，这个功能特别好。
+- 可以使用git、svn等版本管理工具进行版本管理，协作也更方便。
 
 
 
