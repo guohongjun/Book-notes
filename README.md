@@ -43,7 +43,7 @@
 > 我的一个好朋友欣伟，在他离开草场地的时候，把《小王子》送给我，我读了几页，但是都没有读完。这次《小王子》出品了电影，我想去看一下，可是一个人借口自己没有时间，所以就没有去。
 
 #### [《就这么做产品》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%B0%B1%E8%BF%99%E4%B9%88%E5%81%9A%E4%BA%A7%E5%93%81.md)
-道，天，地，法，将。
+道，天，地，法，将。道者，产品哲学。天者，产品设计。地者，落地实施。法者，营销法略，众里寻他。
 
 #### [《人生三悟：断、舍、离》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E4%BA%BA%E7%94%9F%E4%B8%89%E6%82%9F%EF%BC%9A%E6%96%AD%E3%80%81%E8%88%8D%E3%80%81%E7%A6%BB.md)
 
