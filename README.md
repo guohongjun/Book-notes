@@ -26,7 +26,7 @@
 《天才在左，疯子在右》这本书主要讲述了作者与类似神经病人交谈的记录。
 
 
-####[《创业无畏》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%88%9B%E4%B8%9A%E6%97%A0%E7%95%8F.md)
+#### [《创业无畏》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E5%88%9B%E4%B8%9A%E6%97%A0%E7%95%8F.md)
 > 我们赶上一个全民创业的时代，政府和社会鼓励创业，创业成为一种新的风尚。目前这个社会上很多人都一窝蜂似的去创业了，创业真的那么简单吗？
 
 #### [《金字塔原理》](https://github.com/guohongjun/Book-notes/blob/master/notes/%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%86.md)
