@@ -2,6 +2,15 @@
 
 ### 1 android webview的基本设置
 
+渲染速度慢
+
+前端H5页面渲染的速度取决于 两个方面：
+
+Js 解析效率
+Js 本身的解析过程复杂、解析速度不快 & 前端页面涉及较多 JS 代码文件，所以叠加起来会导致 Js 解析效率非常低
+手机硬件设备的性能
+由于Android机型碎片化，这导致手机硬件设备的性能不可控，而大多数的Android手机硬件设备无法达到很好很好的硬件性能
+总结：上述两个原因 导致 H5页面的渲染速度慢。
 
 
 ## 2 webview 与native交互
@@ -37,6 +46,56 @@ webview.getSettings().setUserAgentString(ua+"; HFWSH /"+appversion);
 String ua = webView.getSettings().getUserAgentString();
 webView.getSettings().setUserAgentString(ua.replace("Android", "HFWSH_USER Android"));
 ```
+## jsbridge
+
+
+
+
+## 对cookie的操作 
+
+
+### cookie的定义
+> -  Cookie是客户端存储的一种身份凭证，由服务端在回应的消息头中通过Set-Cookie字段“种”在客户端。以后每次客户端在向服务端请求时都会在消息头中带上Cookie字段。服务端就会根据Cookie的来判断此次请求是从哪个用户发过来的，是否是一次有效请求等。
+> - Cookie是key-value形式的。每条Cookie都有一个效信息字段，有些还含有expires、domain和path等字段。其中的domain和path字段，区分了不同的cookie可以被哪些网页链接获得.
+
+### 1 cookie读取
+
+### 2 cookie的写入
+``` java
+
+   /**
+     * 读写cookie
+     *
+     * @param url
+     * @param expiresDate
+     * @param ticket
+     */
+    private void addCookies(String url, String expiresDate, String ticket) {
+        try {
+            CookieManager cookieManager = CookieManager.getInstance();
+
+            cookieManager.setAcceptCookie(true);
+            // 设置跨域cookie读取
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                CookieManager.getInstance().setAcceptThirdPartyCookies(mWebView, true);
+            }
+            Calendar calendar = Calendar.getInstance();
+            calendar.add(Calendar.WEEK_OF_MONTH, +1);
+            cookieManager.setCookie(url, "sa_auth=" + ticket + ";" + "expires=" + calendar.getTime().toString() + ";" + "domain=" + ".elong.com" + ";" + "Path=/" + ";");
+            if (Build.VERSION.SDK_INT < 21) {
+CookieSyncManager.getInstance().sync();
+            } else {
+               CookieManager.getInstance().flush();
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+```
+
+
 
 
  
