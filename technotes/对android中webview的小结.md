@@ -58,6 +58,11 @@ webView.getSettings().setUserAgentString(ua.replace("Android", "HFWSH_USER Andro
 ## jsbridge
 > 在Android中，JSBridge已经不是什么新鲜的事物了，各家的实现方式也略有差异。大多数人都知道WebView存在一个漏洞，见WebView中接口隐患与手机挂马利用，虽然该漏洞已经在Android 4.2上修复了，即使用@JavascriptInterface代替addJavascriptInterface，但是由于兼容性和安全性问题，基本上我们不会再利用Android系统为我们提供的addJavascriptInterface方法或者@JavascriptInterface注解来实现，所以我们只能另辟蹊径，去寻找既安全，又能实现兼容Android各个版本的方案。
 
+jsbridge调用：
+
+- 1 原始jsbridge
+- 2 通过 WebChromeClient 的onJsAlert()、onJsConfirm()、onJsPrompt（）方法回调拦截JS对话框alert()、confirm()、prompt（） 消息
+
 
 
 ## 对cookie的操作 
@@ -70,6 +75,28 @@ webView.getSettings().setUserAgentString(ua.replace("Android", "HFWSH_USER Andro
 WebView通过android.webkit.CookieManager类来维护cookie。CookieManager是WebView的cookie管理类。
 
 ### 1 cookie读取
+
+``` java
+
+ /**
+     * 读写cookie
+     *
+     * @param url
+     */
+    private void readCookies(String url) {
+        try {
+            CookieManager cookieManager = CookieManager.getInstance();
+            // 
+            String cookieStr = cookieManager.getCookie("domain");
+
+            tv.setText(cookieStr);
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+     
+```
 
 ### 2 cookie的写入
 ``` java
