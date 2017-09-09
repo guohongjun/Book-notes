@@ -134,7 +134,7 @@ CookieSyncManager.getInstance().sync();
 ```
 
 ### 查看cookie工具
-- chrom://inspect
+- chrome://inspect
 - sqlite database browser
 
 
