@@ -86,7 +86,7 @@ WebView通过android.webkit.CookieManager类来维护cookie。CookieManager是We
     private void readCookies(String url) {
         try {
             CookieManager cookieManager = CookieManager.getInstance();
-            // 
+            // cookie的domain写入的时候的域名
             String cookieStr = cookieManager.getCookie("domain");
 
             tv.setText(cookieStr);
